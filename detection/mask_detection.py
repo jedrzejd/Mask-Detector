@@ -1,5 +1,5 @@
-from face_detection import face_detector
-from mask_prediction import mask_prediction
+from detection.face_detection import face_detector
+from detection.mask_prediction import mask_prediction
 from model import faceNet
 
 import cv2
