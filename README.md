@@ -1,6 +1,6 @@
 # Mask-Detector
 
-Application for mask detection created in Python.
+Automatic detection of Covid-19 on x-rays of the lungs
 
 ## Table of content
 * [General info](#general-info)
@@ -9,7 +9,7 @@ Application for mask detection created in Python.
 * [Status](#status)
 
 ## General info
-This project is created for mask detection using pre-trained models.
+The project aims to support the Covid-19 detection process through automatic lung X-ray image analysis.
 
 I trained the model on publicly available datasets
 
