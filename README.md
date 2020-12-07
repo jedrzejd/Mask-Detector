@@ -1,6 +1,6 @@
 # Mask-Detector
 
-Automatic detection of Covid-19 on x-rays of the lungs
+Automatic verification of protective masks on the face.
 
 ## Table of content
 * [General info](#general-info)
@@ -9,7 +9,7 @@ Automatic detection of Covid-19 on x-rays of the lungs
 * [Status](#status)
 
 ## General info
-The project aims to support the Covid-19 detection process through automatic lung X-ray image analysis.
+The project was designed to automatically detect faces in pictures/videos and verify that they have a properly applied mask.
 
 I trained the model on publicly available datasets
 
